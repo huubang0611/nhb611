@@ -1,0 +1,14 @@
+{
+  "appTitle": "Lab06 Skeleton",
+  "@appTitle": {
+    "description": "Tên ứng dụng"
+  },
+  "itemDetails": "Chi tiết mục",
+  "@itemDetails": {
+    "description": "Tên của trang chi tiết mục"
+  },
+  "moreInformationHere": "Thêm thông tin ở đây",
+  "@moreInformationHere": {
+    "description": "Phần thân của thêm thông tin ở đây"
+  }
+}
